@@ -8,8 +8,8 @@
     "init-db": "node src/db/init.js"
   },
   "keywords": [],
-  "author": "Jakeliny Gracielly",
-  "license": "ISC",
+  "author": "Vinícius Zaninelo",
+  "license": "MIT",
   "dependencies": {
     "ejs": "^3.1.6",
     "express": "^4.17.1",
