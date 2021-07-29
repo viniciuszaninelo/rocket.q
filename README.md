@@ -6,3 +6,4 @@ Web app developed during NLW Together organized by RocketSeat.<br />
 ![Preview](https://github.com/viniciusmarquezaninelo/rocket.q/blob/main/imagem-perguntas.png)
 
 
+<img src="imagem-home.png" width="600">
