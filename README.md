@@ -20,7 +20,8 @@
 <img src="imagem-home.png" width="600">
 <img src="imagem-criar-sala.png" width="600">
 <img src="imagem-perguntas.png" width="600">
-</p>
+</p><br />
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
